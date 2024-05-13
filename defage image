@@ -1,0 +1,11 @@
+* {
+  background-color: black;
+  color: rgb(68, 255, 0);
+}
+
+#center {
+  padding: 0px 0px 0px 300px;
+}
+.imee {
+  padding: 0px 0px 0px 470px;
+}

@@ -1,18 +1,20 @@
-- 👋 Hi, I’m @valisher2107
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-valisher2107/valisher2107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!Doctype html>
-<html></html>
-<head> 
-<title>uzbeksila blle</title>
-</head>
-<body>
-  <h1 style: color green;>uzbeklarni sindirish bandasigamas</h1>
-</body>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>troll</title>
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div id="center">
+      <img
+        height="600px"
+        width="800px"
+        src="photo_2024-03-26_23-10-34.jpg"
+        alt="hello "
+      />
+    </div>
+    <h1 class="imee">Your network is not secure,hacked!</h1>
+  </body>
+</html>
